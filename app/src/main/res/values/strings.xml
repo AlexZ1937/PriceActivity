@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PriceActivity</string>
+    <string name="enter">Enter</string>
+    <string name="add">ADD</string>
+    <string name="product">Product</string>
+    <string name="cost">Cost</string>
+    <string name="Settings_word">Настройки</string>
+    <string name="_1_1970">1 января 1970 г. 13:00</string>
+</resources>
